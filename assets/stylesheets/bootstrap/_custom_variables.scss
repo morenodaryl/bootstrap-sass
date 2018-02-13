@@ -1,0 +1,16 @@
+$font-family-base:         'Oswald', sans-serif !default;
+$font-size-base:          			15px !default;
+
+$navbar-height:     80px !default;
+$navbar-default-color:       #005EA7 !default;
+$navbar-default-bg:    #005EA7 !default;
+$navbar-default-border:   darken($navbar-default-bg, 6.5%) !default;
+$navbar-border-radius:       0 !default;
+
+$navbar-default-link-color:    white !default;
+$navbar-default-link-hover-color:        darken(white, 25%) !default;
+$navbar-default-link-hover-bg:       transparent !default;
+$navbar-default-link-active-color:     #ccc !default;
+$navbar-default-link-active-bg:   darken($navbar-default-bg, 6.5%) !default;
+$navbar-default-link-disabled-color:       #ccc !default;
+$navbar-default-link-disabled-bg:        transparent !default;
